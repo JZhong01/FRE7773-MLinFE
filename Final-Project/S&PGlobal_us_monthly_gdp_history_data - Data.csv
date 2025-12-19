@@ -1,4 +1,4 @@
-,,Monthly Nominal GDP Index,Monthly Real GDP Index
+month_label,date,Monthly Nominal GDP Index,Monthly Real GDP Index
 1992 - Jan,1/1/1992,6310.177,10168.500
 1992 - Feb,2/1/1992,6352.475,10216.039
 1992 - Mar,3/1/1992,6426.654,10322.894
@@ -402,3 +402,4 @@
 2025 - May,5/1/2025,30207.364,23601.124
 2025 - Jun,6/1/2025,30554.267,23806.694
 2025 - Jul,7/1/2025,30662.766,23854.532
+
